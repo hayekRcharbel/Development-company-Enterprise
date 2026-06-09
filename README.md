@@ -1,6 +1,6 @@
 # Development-company-Enterprise
 A professional AI development workspace that connects to top coding models via official runtimes, supports custom .md agents, and automates full project workflows from brief to deployment with real-time execution, previews, and client-ready delivery packages.
-Double-click Hayek_Enterprise.exe.
+Double-click Enterprise.exe.
 
 Agents folder:
 Put any custom .md agent inside the agents folder, then open the app and click Agent company > Scan agents. The app will copy your agents into every generated project and include them in the company board and master prompt.
